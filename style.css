@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #4e5d6e;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+section {
+    padding: 40px;
+}
+
+.about {
+    background: #ffffff;
+}
+
+.interests {
+    background: #ffffff;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+
